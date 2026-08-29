@@ -1,4 +1,4 @@
-# Hi 👋, I'm Anushree
+# Hi, I'm Anushree
 
 ### Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 
@@ -16,7 +16,6 @@ and exploring how modern technologies can solve real-world problems.
 - 💻 Interested in Full-Stack Development & AI/ML
 - 🧠 Exploring Generative AI, RAG & Machine Learning
 - 🚀 Building projects with React, FastAPI & Python
-- 🌱 Currently learning and improving my DSA & system design skills
 - 💡 Interested in solving real-world problems through technology
 
 ---
@@ -26,7 +25,6 @@ and exploring how modern technologies can solve real-world problems.
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,7 +33,6 @@ and exploring how modern technologies can solve real-world problems.
 
 ### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,10 +52,5 @@ and exploring how modern technologies can solve real-world problems.
 
 ---
 
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushree3412)
-
----
 
 ### ✨ "Building, learning, and improving one project at a time."
