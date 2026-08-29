@@ -54,12 +54,16 @@ and exploring how modern technologies can solve real-world problems.
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
 
 - Machine Learning
 - Deep Learning
 - RAG
 - Generative AI
-
 ---
 
 ## 🌸 Currently Exploring
