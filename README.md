@@ -33,13 +33,13 @@ and exploring how modern technologies can solve real-world problems.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ### Backend
@@ -51,14 +51,9 @@ and exploring how modern technologies can solve real-world problems.
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
 
 - Machine Learning
 - Deep Learning
@@ -76,13 +71,6 @@ and exploring how modern technologies can solve real-world problems.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushree3412&show_icons=true&theme=rose_pine&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   🌷 <i>Building, learning, and improving one project at a time.</i> ♡
