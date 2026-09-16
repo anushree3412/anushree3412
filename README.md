@@ -22,7 +22,6 @@ and exploring how modern technologies can solve real-world problems.
 
 - 🎓 Engineering Student
 - 💻 Interested in Full-Stack Development & AI/ML
-- 🧠 Exploring Generative AI, RAG & Machine Learning
 - 🚀 Building projects with React, FastAPI & Python
 - ✨ Always learning something new
 
